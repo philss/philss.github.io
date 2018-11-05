@@ -4,7 +4,7 @@ title:  "The joy of reinstalling the system"
 date:   2018-11-04 21:41:00 -0300
 ---
 
-It's curious how joyful is to reinstalling all your OS and dependencies. It's like
+It's curious how joyful it is to reinstalling all your OS and dependencies. It's like
 getting a new toy, except the part that you need to reconfigure everything.
 
 To help on that matter you can share your configuration through [open source repos][dot-files], or having them
@@ -70,7 +70,7 @@ in development.
 ## Summing up
 
 It's great to have a fresh system again! But it's a pain to reconfigure everything from scratch.
-So my advise is to keep your config files saved and updated somewhere, in order to have an easy
+So my advice is to keep your config files saved and updated somewhere, in order to have an easy
 setup. This way you don't have to fear when reinstalling the system.
 
 [dot-files]: https://github.com/phils/dotfiles
