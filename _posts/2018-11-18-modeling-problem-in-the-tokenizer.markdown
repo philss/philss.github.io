@@ -10,8 +10,8 @@ From one side I had performance concerns, which made me start with a more primit
 another side I wish a better modeling, which would make much easier to work inside the [tokenizer][html]
 and inside the tree construction phase.
 
-My worries about performance leaded to a poor design. I understand that now, and it's a relief to
-realize it in the middle of the work. But the time I spend trying to make it faster for the first
+My worries about performance led to a poor design. I understand that now, and it's a relief to
+realize it in the middle of the work. But the time I spent trying to make it faster for the first
 version was costly.
 
 ## Tuples x Structs 🤓
